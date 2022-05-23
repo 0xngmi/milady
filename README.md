@@ -11,6 +11,8 @@ I've tried to archive every website I've found through https://archive.ph/, so i
 
 Overall, a big part of the trail that kaliacc left has been lost to internet rot and active deletion, since all their twitter accounts are deleted, the discord servers they used are long gone and they used to be active in multiple imageboards that no longer exist, so trying to find stuff on them is quite hard. I've done my best to document everything I could here to avoid more losses.
 
+If you run into any page that is not archived, use https://archive.ph/ to create a snapshot.
+
 ## Repo structure
 The folders are pretty self explanatory, but here's the rundown:
 - bpd_god: an archive of all the tweets and likes from bpd_god account on twitter
