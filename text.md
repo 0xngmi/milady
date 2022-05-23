@@ -39,7 +39,7 @@ All of remilia is connected:
 ### Systemspace proof
 Found multiple independent sources of this:
 - someone very close to miya confirmed it through cuteness
-- an anon (different from first) that had A LOT of info from miya/kaliacc from years ago and claimed to be ex-kaliacc confirmed it too
+- an anon (different one) that had A LOT of info from miya/kaliacc from years ago and claimed to be ex-kaliacc confirmed it too
 - it was mentioned in a forum a year ago: https://social.xenofem.me/notice/A4ksXFPT6DkJg1fKIC
 - in multiple posts across image boards people claim that kaliacc and systemspace were connected
 - multiple people have come out saying that they were pushed to suicide by kaliacc and miya
@@ -66,3 +66,6 @@ Proof that someone killed themselves due to systemspace:
   - miya redpills: https://twtext.com/article/1163893300169826305
 - remilia group chat leak: https://twitter.com/cuteness333/status/1527636588527702017
 - initial milady connection, lolcow imageboard: https://lolcow.farm/snow/res/1351285.html#1351346
+
+## Other people covering it
+- https://twitter.com/zacdoteth/status/1528386237530198017
