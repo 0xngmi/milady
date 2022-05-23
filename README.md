@@ -5,7 +5,7 @@
 ![](miya2.jpeg)
 ![](miya3.jpeg)
 ![](miya0.jpg)
-
+![](miya4.jfif)
 All of remilia is connected:
 - A lot of members followed anorexic girls and miya-related accounts
 - charlotte openly talked about kaliacc and being sonya in the remilia group chat
