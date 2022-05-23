@@ -1,3 +1,10 @@
+# Rohit a.k.a. miya a.k.a. sonya a.k.a. charlotte a.k.a. bpd_god
+
+
+![](miya1.png)
+![](miya2.jpeg)
+![](miya3.jpeg)
+
 All of remilia is connected:
 - A lot of members followed anorexic girls and miya-related accounts
 - charlotte openly talked about kaliacc and being sonya in the remilia group chat
@@ -61,9 +68,9 @@ Proof that someone killed themselves due to systemspace:
   - https://shitposter.club/users/miya
   - https://freespeechextremist.com/miya
 - neocities: https://web.archive.org/web/20210209082457/https://miya-miya.neocities.org/thoughts/
-- expose from cuteness: https://cuteness.substack.com/p/lets-all-love-miya?s=r
+- expose from cuteness: https://cuteness.substack.com/p/lets-all-love-miya?s=r <!-- https://archive.ph/W59Pr -->
 - twitter archive: https://kaliacc.org/miya/archive/archive.html#/tweets/tweets?sort=asc
-  - miya redpills: https://twtext.com/article/1163893300169826305
+  - miya redpills: https://twtext.com/article/1163893300169826305   <!-- https://archive.ph/QwkPT -->
 - remilia group chat leak: https://twitter.com/cuteness333/status/1527636588527702017
 - initial milady connection, lolcow imageboard: https://lolcow.farm/snow/res/1351285.html#1351346
 
