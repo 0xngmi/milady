@@ -35,6 +35,7 @@ The folders are pretty self explanatory, but here's the rundown:
   - miya redpills: https://twtext.com/article/1163893300169826305
 - remilia group chat leak: https://twitter.com/cuteness333/status/1527636588527702017
 - initial milady connection, lolcow imageboard: https://lolcow.farm/snow/res/1351285.html#1351346
+- systemspace admission: https://twitter.com/JamesLiao333/status/1530134201722347525
 
 ## Other people covering it
 - https://twitter.com/zacdoteth/status/1528386237530198017
