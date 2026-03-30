@@ -25,11 +25,11 @@ The folders are pretty self explanatory, but here's the rundown:
 ## Main sources of info
 - Account documenting grooming: https://www.instagram.com/hellokittyrazorb1adee/
 - Miya social media
-  - https://web.archive.org/web/20220523184447/https://letsalllovela.in/users/miya/feed.atom
+  - https://archive.ph/20200501044419/https://letsalllovela.in/users/miya
   - https://social.darkpeak.org/users/4806 (dead, archive is blank SPA shell; posts saved in miya-social/)
   - https://shitposter.club/users/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
   - https://freespeechextremist.com/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
-- neocities: https://miya-miya.neocities.org/thoughts/ (dead, no archive available)
+- neocities: https://archive.ph/O6S51
 - expose from cuteness: https://cuteness.substack.com/p/lets-all-love-miya?s=r
 - twitter archive: https://kaliacc.org/miya/archive/archive.html#/tweets/tweets?sort=asc
   - miya redpills: https://web.archive.org/web/20230619052657/https://twtext.com/article/1163893300169826305
@@ -53,7 +53,7 @@ All of remilia is connected:
 
 ### bpd_god is miya
 - account name of bpd_god was literally miya
-- miya tweeted from their account on https://web.archive.org/web/20220523184447/https://letsalllovela.in/users/miya/feed.atom that their handle on twitter was @bpd_god
+- miya tweeted from their account on https://archive.ph/20200501044419/https://letsalllovela.in/users/miya that their handle on twitter was @bpd_god
 - not spending much time here because any digging into miya reveals bpd_god as the main account, it's everywhere
 
 ### Sonya proof:
@@ -71,8 +71,8 @@ All of remilia is connected:
 
 ### Proof of writings
 - You can see all the miya writings here: https://dk1lib.org/s/miya?e=1&yearFrom=2018&yearTo=2020 (usa1lib.org)
-- Miya's neocities page: https://miya-miya.neocities.org/thoughts/ (dead, no archive available)
-    - especially: https://miya-miya.neocities.org/black_heart/ (dead, no archive available)
+- Miya's neocities page: https://archive.ph/O6S51
+    - especially: https://archive.ph/TlHby
     - miya refers to this neocities page in multiple of her tweets (example: "from my blog [link to neocities page]" on blog.png)
 
 ### Proof of remilia implication:
