@@ -25,10 +25,10 @@ The folders are pretty self explanatory, but here's the rundown:
 ## Main sources of info
 - Account documenting grooming: https://www.instagram.com/hellokittyrazorb1adee/
 - Miya social media
-  - https://web.archive.org/web/20220523184358/https://letsalllovela.in/users/miya
-  - https://web.archive.org/web/20220523184357/https://social.darkpeak.org/users/4806
-  - https://web.archive.org/web/20230619054037/https://shitposter.club/users/miya
-  - https://web.archive.org/web/20230619053844/https://freespeechextremist.com/miya
+  - https://web.archive.org/web/20220523184447/https://letsalllovela.in/users/miya/feed.atom
+  - https://social.darkpeak.org/users/4806 (dead, archive is blank SPA shell; posts saved in miya-social/)
+  - https://shitposter.club/users/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
+  - https://freespeechextremist.com/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
 - neocities: https://miya-miya.neocities.org/thoughts/ (dead, no archive available)
 - expose from cuteness: https://cuteness.substack.com/p/lets-all-love-miya?s=r
 - twitter archive: https://kaliacc.org/miya/archive/archive.html#/tweets/tweets?sort=asc
@@ -53,7 +53,7 @@ All of remilia is connected:
 
 ### bpd_god is miya
 - account name of bpd_god was literally miya
-- miya tweeted from their account on https://web.archive.org/web/20220523184358/https://letsalllovela.in/users/miya that their handle on twitter was @bpd_god
+- miya tweeted from their account on https://web.archive.org/web/20220523184447/https://letsalllovela.in/users/miya/feed.atom that their handle on twitter was @bpd_god
 - not spending much time here because any digging into miya reveals bpd_god as the main account, it's everywhere
 
 ### Sonya proof:
