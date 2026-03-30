@@ -25,14 +25,14 @@ The folders are pretty self explanatory, but here's the rundown:
 ## Main sources of info
 - Account documenting grooming: https://www.instagram.com/hellokittyrazorb1adee/
 - Miya social media
-  - https://letsalllovela.in/users/miya
-  - https://social.darkpeak.org/users/4806
-  - https://shitposter.club/users/miya
-  - https://freespeechextremist.com/miya
-- neocities: https://web.archive.org/web/20210209082457/https://miya-miya.neocities.org/thoughts/
+  - https://archive.ph/20200501044419/https://letsalllovela.in/users/miya
+  - https://social.darkpeak.org/users/4806 (dead, archive is blank SPA shell; posts saved in miya-social/)
+  - https://shitposter.club/users/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
+  - https://freespeechextremist.com/miya (dead, archive is blank SPA shell; posts saved in miya-social/)
+- neocities: https://archive.ph/O6S51
 - expose from cuteness: https://cuteness.substack.com/p/lets-all-love-miya?s=r
 - twitter archive: https://kaliacc.org/miya/archive/archive.html#/tweets/tweets?sort=asc
-  - miya redpills: https://twtext.com/article/1163893300169826305
+  - miya redpills: https://web.archive.org/web/20230619052657/https://twtext.com/article/1163893300169826305
 - remilia group chat leak: https://twitter.com/cuteness333/status/1527636588527702017
 - initial milady connection, lolcow imageboard: https://lolcow.farm/snow/res/1351285.html#1351346
 - systemspace admission: https://twitter.com/JamesLiao333/status/1530134201722347525
@@ -53,13 +53,13 @@ All of remilia is connected:
 
 ### bpd_god is miya
 - account name of bpd_god was literally miya
-- miya tweeted from their account on https://letsalllovela.in/users/miya that their handle on twitter was @bpd_god
+- miya tweeted from their account on https://archive.ph/20200501044419/https://letsalllovela.in/users/miya that their handle on twitter was @bpd_god
 - not spending much time here because any digging into miya reveals bpd_god as the main account, it's everywhere
 
 ### Sonya proof:
 - GC message talking about tweeting as sonya
 - seems like it was actually same account as bpd_god and handle just got changed
-- podcast linking sonya and bpd_god: https://podcasts.apple.com/us/podcast/kali-yuga-accelerationism-and-the-metaphysics/id1464427103?i=1000501926421
+- podcast linking sonya and bpd_god: https://web.archive.org/web/20220523184400/https://podcasts.apple.com/us/podcast/kali-yuga-accelerationism-and-the-metaphysics/id1464427103?i=1000501926421
 - https://twitter.com/stroobere/status/1308557581531713537
 - https://warosu.org/lit/thread/15691893#p15692268
 - account that documented all the stuff on ig also links them together
@@ -71,12 +71,12 @@ All of remilia is connected:
 
 ### Proof of writings
 - You can see all the miya writings here: https://dk1lib.org/s/miya?e=1&yearFrom=2018&yearTo=2020 (usa1lib.org)
-- Miya's neocities page: https://web.archive.org/web/20210209082457/https://miya-miya.neocities.org/thoughts/
-    - especially: https://web.archive.org/web/20200212113601/https://miya-miya.neocities.org/black_heart/
+- Miya's neocities page: https://archive.ph/O6S51
+    - especially: https://archive.ph/TlHby
     - miya refers to this neocities page in multiple of her tweets (example: "from my blog [link to neocities page]" on blog.png)
 
 ### Proof of remilia implication:
-- https://github.com/yuminaut/soma.cx/blob/master/jade.js
+- https://web.archive.org/web/20230619035821/https://github.com/yuminaut/soma.cx/blob/master/jade.js
 - archive of kaliacc.org has a mention of sonora 
 - almost all remilia members followed kaliacc-related accounts on twitter
 
